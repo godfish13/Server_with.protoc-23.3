@@ -12,3 +12,4 @@ C:\Unity_Server\Server_with.protoc-23.3\Server\PacketGenerator\obj\Debug\net8.0\
 C:\Unity_Server\Server_with.protoc-23.3\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.pdb
 C:\Unity_Server\Server_with.protoc-23.3\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.genruntimeconfig.cache
 C:\Unity_Server\Server_with.protoc-23.3\Server\PacketGenerator\obj\Debug\net8.0\ref\PacketGenerator.dll
+C:\Unity_Server\Server_with.protoc-23.3\Server\PacketGenerator\obj\Debug\net8.0\PacketGenerator.sourcelink.json

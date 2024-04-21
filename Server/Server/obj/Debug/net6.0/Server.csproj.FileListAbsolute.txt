@@ -36,3 +36,4 @@ C:\Unity_Server\Server_with.protoc-23.3\Server\Server\bin\Debug\net6.0\ServerCor
 C:\Unity_Server\Server_with.protoc-23.3\Server\Server\obj\Debug\net6.0\Server.csproj.Up2Date
 C:\Unity_Server\Server_with.protoc-23.3\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
 C:\Unity_Server\Server_with.protoc-23.3\Server\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Unity_Server\Server_with.protoc-23.3\Server\Server\obj\Debug\net6.0\Server.sourcelink.json
