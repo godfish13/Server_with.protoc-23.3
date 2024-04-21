@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\packet\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\packet\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\Protocol.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FC7601-D47F-4FAC-87A1-C72D374A146E}|PacketGenerator\\PacketGenerator.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FC7601-D47F-4FAC-87A1-C72D374A146E}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FC7601-D47F-4FAC-87A1-C72D374A146E}|PacketGenerator\\PacketGenerator.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FC7601-D47F-4FAC-87A1-C72D374A146E}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\packet\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\packet\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\room\\roommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\room\\roommgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\room\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\room\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\object\\objectmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\object\\objectmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\job\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\job\\jobtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\job\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\job\\jobserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\game\\job\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\game\\job\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\datacontent\\datamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\datacontent\\datamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\datacontent\\datacontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\datacontent\\datacontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\datacontent\\configmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\datacontent\\configmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7BDE74-CC2C-499F-B36C-640E38B75380}|Server\\Server.csproj|solutionrelative:server\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\GenProto.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26157FB9-4083-4DF3-81AB-F28004364B86}|ServerCore\\ServerCore.csproj|c:\\unity_server\\server_with.protoc-23.3\\server\\servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26157FB9-4083-4DF3-81AB-F28004364B86}|ServerCore\\ServerCore.csproj|solutionrelative:servercore\\connector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity_Server\\Server_with.protoc-23.3\\Server-Base-main\\Server Base\\Packet\\GenPackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Protocol.proto",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\Protocol.proto",
+              "RelativeDocumentMoniker": "..\\Common\\protoc-23.3-win64\\bin\\Protocol.proto",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\Protocol.proto",
+              "RelativeToolTip": "..\\Common\\protoc-23.3-win64\\bin\\Protocol.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-21T13:16:01.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerPacketManager.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\ServerPacketManager.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\ServerPacketManager.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\ServerPacketManager.cs",
+              "RelativeToolTip": "Server\\Packet\\ServerPacketManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:49:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\RoomMgr.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\RoomMgr.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\RoomMgr.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\RoomMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:48:03.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\Map.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\Map.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\Map.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\Map.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:47:29.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\GameRoom.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Room\\GameRoom.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Room\\GameRoom.cs",
+              "RelativeToolTip": "Server\\Game\\Room\\GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:47:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjectMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Object\\ObjectMgr.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\ObjectMgr.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Object\\ObjectMgr.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\ObjectMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:46:40.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Object\\GameObject.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Object\\GameObject.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Object\\GameObject.cs",
+              "RelativeToolTip": "Server\\Game\\Object\\GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:46:23.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobTimer.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\JobTimer.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\JobTimer.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\JobTimer.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\JobTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:42:45.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\PacketHandler.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\PacketHandler.cs",
+              "RelativeToolTip": "Server\\Packet\\PacketHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:37:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\Protocol.cs",
+              "RelativeDocumentMoniker": "Server\\Packet\\Protocol.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Packet\\Protocol.cs",
+              "RelativeToolTip": "Server\\Packet\\Protocol.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:37:05.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:14:13.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\PacketGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\Program.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\PacketGenerator\\Program.cs",
+              "RelativeToolTip": "PacketGenerator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:13:43.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:42:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobSerializer.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\JobSerializer.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\JobSerializer.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\JobSerializer.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\JobSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:42:44.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\Job.cs",
+              "RelativeDocumentMoniker": "Server\\Game\\Job\\Job.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Game\\Job\\Job.cs",
+              "RelativeToolTip": "Server\\Game\\Job\\Job.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:42:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\DataMgr.cs",
+              "RelativeDocumentMoniker": "Server\\DataContent\\DataMgr.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\DataMgr.cs",
+              "RelativeToolTip": "Server\\DataContent\\DataMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:40:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContents.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\DataContents.cs",
+              "RelativeDocumentMoniker": "Server\\DataContent\\DataContents.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\DataContents.cs",
+              "RelativeToolTip": "Server\\DataContent\\DataContents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:40:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigMgr.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\ConfigMgr.cs",
+              "RelativeDocumentMoniker": "Server\\DataContent\\ConfigMgr.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\DataContent\\ConfigMgr.cs",
+              "RelativeToolTip": "Server\\DataContent\\ConfigMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:40:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenProto.bat",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\GenProto.bat",
+              "RelativeDocumentMoniker": "..\\Common\\protoc-23.3-win64\\bin\\GenProto.bat",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Common\\protoc-23.3-win64\\bin\\GenProto.bat",
+              "RelativeToolTip": "..\\Common\\protoc-23.3-win64\\bin\\GenProto.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVDhPY6AI/P//n7G1s\u002Bc/lEsWYILSRANbaysUmgHkgl\u002B/fpGFQXqxuuDkyZMMEydOBNOEAIYBixYvZhARl2QIiohi4BeTYJg\u002BcxZUBjtAMeDSpUsM1rb2DEoKcgwnDx9kUFOQZ7BxcQeL4wIoBuzfv5\u002BBjZOTYe2aNQyRkZEM69auYWBjY2VYv3UHw4otuxl2HzzK8OPHD6hqCEAxwNHRkeHrt28MQcEhDMuXL2cIANLP33xgUPdNYdB3dGN4JajGcPrSVahqCEAxQE9Pj\u002BHE4UMMV\u002B89ZNC1tGW4dOcBw7kzZxn0lYQZLj/5zGCoLMrw9NU7qGoIwAjEhLhYhm9vXjDsWLOC4fe7lwxm\u002BloMl\u002B69ZdCV4WW4cO8Ng4meNlQlBLBAaRRgbm4OxiAA8vOPU2cZLj34xqCnpswgIyYFFocBDBegAw4ODgYXO2uGcB9XBh01JTAfGVCcFwYaMDAAABi9qE6NKlarAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-21T13:30:39.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Session\\ClientSession.cs",
+              "RelativeDocumentMoniker": "Server\\Session\\ClientSession.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\Server\\Session\\ClientSession.cs",
+              "RelativeToolTip": "Server\\Session\\ClientSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:10:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Connector.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\ServerCore\\Connector.cs",
+              "RelativeDocumentMoniker": "ServerCore\\Connector.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server\\ServerCore\\Connector.cs",
+              "RelativeToolTip": "ServerCore\\Connector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:08:39.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenPackets.cs",
+              "DocumentMoniker": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server-Base-main\\Server Base\\Packet\\GenPackets.cs",
+              "RelativeDocumentMoniker": "..\\Server-Base-main\\Server Base\\Packet\\GenPackets.cs",
+              "ToolTip": "C:\\Unity_Server\\Server_with.protoc-23.3\\Server-Base-main\\Server Base\\Packet\\GenPackets.cs",
+              "RelativeToolTip": "..\\Server-Base-main\\Server Base\\Packet\\GenPackets.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:07:57.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
